@@ -37,9 +37,6 @@ https://public.tableau.com/views/HealthCareCapstone/Dashboard1?:language=en-US&p
 - Compatible software for visualization (e.g., Tableau)
 - Access to the Health care data
 
-## Contribution
-Contributions are welcome! If you wish to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. 
-
 ## Credits
 - The project utilized the health care diabetes dataset.
 
